@@ -1,40 +1,26 @@
-Welcome to my professional portfolio repository! This site showcases my engineering projects, technical competencies, and academic journey as an Information Science & Engineering student.
+# Mariam Farheen Saif | Professional Portfolio
 
-🚀 Live Site
-Check out my live portfolio here: https://farheenmariam3-dotcom.github.io/portfolio/
+Welcome to my portfolio! This repository contains the source code for my personal website, showcasing my projects, technical skills, and professional experience.
 
-📖 About
-I am a third-year Information Science & Engineering student passionate about building scalable, high-impact technical solutions. My focus is on full-stack development, cloud computing, and intelligent systems. I thrive at the intersection of complex problem-solving and intuitive user experience.
+## 🚀 Live Site
+Check out my live portfolio here: [Insert your Vercel URL here]
 
-🛠️ Technical Competencies
-Core Programming: C, Python, Java
+## 📝 About Me
+I am a dedicated Information Science & Engineering student with a passion for building scalable digital solutions. I thrive at the intersection of complex problem-solving and user-centric design, aiming to build applications that deliver real-world impact.
 
-Web Systems: HTML5, CSS3, JavaScript
+## 🛠️ Core Competencies
+* **Technical Proficiencies:** [Insert Skills, e.g., Python, JavaScript, DBMS]
+* **Design & Strategy:** UI/UX principles, Project Management, Agile methodologies
+* **Problem Solving:** Data Structures & Algorithms, System Architecture
 
-Foundational Knowledge: Data Structures & Algorithms (DSA), Database Management Systems (DBMS), Cloud Computing
+## 📂 Featured Projects
+* **VisioSense:** An AI-powered assistive wearable for the visually impaired, featuring real-time object detection and micro-navigation.
+* [Add other projects here...]
 
-🏗️ Featured Showcase: VisioSense
-Role: Technical Team Lead AI & Computer Vision Assistive Wearable
+## 📬 Contact & Links
+* **LinkedIn:** [Insert your LinkedIn link]
+* **Email:** [Insert your email]
+* **GitHub:** [Insert your GitHub profile link]
 
-VisioSense is a comprehensive assistive wearable designed to accurately map physical environments for the visually impaired.
-
-Key Features:
-
-Real-time Object Detection
-
-Color & Currency Recognition
-
-Proactive Micro-Navigation Alerts
-
-Smart Transit & Bus Tracking
-
-📬 Connect with Me
-Email: farheenmariam3@gmail.com
-
-LinkedIn: Mariam Farheen Saif
-
-GitHub: farheenmariam3-dotcom
-
-Phone: +91 9035829189
-
-© 2026 Mariam Farheen Saif.
+---
+*Built with passion and clean code.*
