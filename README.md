@@ -3,7 +3,7 @@
 Welcome to my portfolio! This repository contains the source code for my personal website, showcasing my projects, technical skills, and professional experience.
 
 ## 🚀 Live Site
-Check out my live portfolio here: [Insert your Vercel URL here]
+Check out my live portfolio here: https://farheenmariam3-dotcom.github.io/Portfolio/
 
 ## 📝 About Me
 I am a dedicated Information Science & Engineering student with a passion for building scalable digital solutions. I thrive at the intersection of complex problem-solving and user-centric design, aiming to build applications that deliver real-world impact.
